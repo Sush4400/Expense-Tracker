@@ -1,0 +1,21 @@
+date,amount,category,description
+01-10-2024,50000.0,Income,salary
+02-10-2024,1500.0,Expense,groceries
+03-10-2024,250.0,Expense,coffee
+04-10-2024,800.0,Expense,transport
+05-10-2024,30000.0,Income,freelance
+06-10-2024,400.0,Expense,movie
+07-10-2024,9000.0,Income,bonus
+08-10-2024,38000.0,Expense,house rent
+09-10-2024,120.0,Expense,snacks
+10-10-2024,800.0,Expense,taxi
+11-10-2024,5500.0,Income,investment
+12-10-2024,200.0,Expense,candy
+13-10-2024,12000.0,Income,project
+14-10-2024,150.0,Expense,gift
+15-10-2024,6000.0,Income,part-time
+16-10-2024,700.0,Expense,parking
+17-10-2024,8500.0,Income,interest
+18-10-2024,100.0,Expense,chocolate
+19-10-2024,7500.0,Income,cashback
+20-10-2024,500.0,Expense,utilities
